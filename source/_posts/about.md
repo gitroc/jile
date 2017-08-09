@@ -1,5 +1,7 @@
 ---
-title: about
+title: 个人简历
 date: 2017-07-12 14:54:16
-tags:
+tags: 中文个人简历
 ---
+
+
